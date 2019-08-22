@@ -25,17 +25,17 @@ interests:
 - Self organization and criticality
 - Creativity and cognition
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+  courses:
+  - course: PhD in Science (Physics)
+    institution: Universidad Autónoma del Estado de Morelos (UAEM)
+    year: 2018
+  - course: MsC in Science (Physics) 
+    institution: UAEM
+    year: 2014
+  - course: BSc in Science (Chemistry)
+    institution: UAEM
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -69,4 +69,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
+I'm a Mexican scientist, postdoc at Plotkin's mathematical biology group.
 
+My research interests vary between complex systems and self-organization, neuroscience, music and recently social and cultural evolution.
+ 
