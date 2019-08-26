@@ -14,16 +14,16 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: University of Pennsylvania
+- name: Biology Department, University of Pennsylvania
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- Statistical properties of music scores
-- Self organization and criticality
-- Creativity and cognition
+- Statistical properties in music and language
+- Collective dynamics in social systems
+- Creative and cognitive processes in arts and science
 
 education:
   courses:
@@ -69,7 +69,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I'm a Mexican scientist, postdoc at Plotkin's mathematical biology group.
+I'm a Mexican scientist, postdoc at <a href="http://mathbio.sas.upenn.edu/"> Plotkin's lab</a>.
 
-My research interests vary between complex systems and self-organization, neuroscience, music and recently social and cultural evolution.
+My research interests lay at the intersection between music, language, neuroscience and collective behavior from a statistical physics and complex systems perspective.
  
